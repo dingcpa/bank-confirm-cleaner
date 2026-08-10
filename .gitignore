@@ -1,0 +1,8 @@
+# 客戶資料保險絲:任何資料檔一律不進版控
+*.xls
+*.xlsx
+*.pdf
+*.csv
+data/
+logs/
+.env
